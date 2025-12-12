@@ -1,0 +1,19 @@
+# Python junk
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Simulation Artifacts
+*.vcd
+*.xml
+sim_build/
+__work/
+results.xml
+
+# Editor junk (ADD THESE LINES)
+*.swp
+.*.swp
+
+# System junk
+.DS_Store
